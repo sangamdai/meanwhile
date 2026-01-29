@@ -28,8 +28,6 @@ No signup. No data collection. Completely offline. Free to use.
 
 ## Philosophy
 
-We all stand on what humanity built before us. This app is built with the belief that useful tools should be accessible to everyone. When we share freely, we uplift each other.
+When we share freely, we uplift each other. This app is built with the belief that useful tools should be accessible to everyone.
 
 ---
-
-**Made with care for humanity**
