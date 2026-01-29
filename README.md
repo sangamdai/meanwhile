@@ -2,7 +2,7 @@
 
 A lightweight macOS utility for calculating time differences across timezones.
 
-![Meanwhile App](AppScreenshot.png)
+![Meanwhile App](AppScreen.png)
 
 ## Why This Exists
 
