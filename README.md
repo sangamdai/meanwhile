@@ -36,8 +36,4 @@ Since the app isn't signed with an Apple Developer certificate, macOS Gatekeeper
 - Scroll down to see "Meanwhile was blocked"
 - Click **"Open Anyway"**
 
-## Philosophy
-
-When we share freely, we uplift each other. This app is built with the belief that useful tools should be accessible to everyone.
-
 ---
