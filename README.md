@@ -26,6 +26,16 @@ Meanwhile makes it simple: add your cities and scrub through time.
 
 No signup. No data collection. Completely offline. Free to use.
 
+### ⚠️ First Launch
+
+Since the app isn't signed with an Apple Developer certificate, macOS Gatekeeper will block it on first launch. This is normal for free, open-source apps.
+
+**To fix it:**
+
+- Go to **System Settings → Privacy & Security**
+- Scroll down to see "Meanwhile was blocked"
+- Click **"Open Anyway"**
+
 ## Philosophy
 
 When we share freely, we uplift each other. This app is built with the belief that useful tools should be accessible to everyone.
