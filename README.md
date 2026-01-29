@@ -2,20 +2,20 @@
 
 A lightweight macOS utility for calculating time differences across timezones.
 
-![Meanwhile App](Screenshot.png)
+![Meanwhile App](AppScreenshot.png)
 
 ## Why This Exists
 
 We work with people around the world. We have friends in different cities. We collaborate across continents. But calculating "what time will it be there when it's 3 PM here?" is surprisingly difficult.
 
-Meanwhile makes it simple: add your cities, scrub through time, see the overlap.
+Meanwhile makes it simple: add your cities and scrub through time.
 
 ## How to Use
 
 1. Download and unzip
 2. Drag Meanwhile.app to your Applications folder
 3. Open and add cities
-4. Click a city to make it home or change your reference point
+4. Click any city to make it home
 5. Scrub the time slider to calculate differences
 
 ## Installation
